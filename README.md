@@ -8,19 +8,6 @@ https://sainithin832.github.io/MyPortfolio/
 
 ---
 
-## 📂 Folder Structure
-
-MyPortfolio/
-│
-├── index.html # Main HTML file
-├── styles.css # Complete styling (CSS)
-├── script.js # JavaScript for interactions
-├── images/ # Images used in the website
-└── README.md # Project documentation
-
-
----
-
 ## 🚀 Features
 
 - Responsive design (Desktop, Tablet, Mobile)
