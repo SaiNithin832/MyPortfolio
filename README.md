@@ -62,15 +62,3 @@ Icons from Font Awesome
 This project is open source and free to use for learning and personal portfolio purposes.
 
 
----
-
-## ✅ How to Add This README
-
-1. Create a file named **`README.md`**
-2. Paste the above content
-3. Save and push:
-
-```bash
-git add README.md
-git commit -m "Add README file"
-git push
